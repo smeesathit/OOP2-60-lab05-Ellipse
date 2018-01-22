@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ellipse
+comment0.text=\r\n\ \u0E04\u0E25\u0E32\u0E2A\u0E02\u0E2D\u0E07\u0E23\u0E39\u0E1B\u0E27\u0E07\u0E23\u0E35\r\n
+comment1.params=radius1\ radius2
+comment1.target=Ellipse(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Triangle\r\n
+comment2.params=radius
+comment2.target=void\ setSMajorAxis(int)
+comment2.text=\r\n\ set\ methods\r\n
+comment3.params=radius
+comment3.target=void\ setSMinorAxis(int)
+comment4.params=
+comment4.target=int\ getSMajorAxis()
+comment5.params=
+comment5.target=int\ setSMinorAxis()
+comment6.params=
+comment6.target=double\ getArea()
+comment7.params=
+comment7.target=double\ getPerimeter()
+comment8.params=
+comment8.target=boolean\ isValid()
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EllipseProgram
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=EllipseProgram()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ TriangleProgram\r\n
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ getInput()
+comment5.params=
+comment5.target=void\ displayOutput()
+numComments=6
